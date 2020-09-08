@@ -1,0 +1,47 @@
+@font-face {
+	font-family: 'Gotham';
+	src: url('GothamLight.eot');
+	src: url('GothamLight.eot?#iefix') format('embedded-opentype'),
+		url('GothamLight.woff2') format('woff2'),
+		url('GothamLight.woff') format('woff'),
+		url('GothamLight.ttf') format('truetype'),
+		url('GothamLight.svg#GothamLight') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Gotham';
+	src: url('Gotham-Light.eot');
+	src: url('Gotham-Light.eot?#iefix') format('embedded-opentype'),
+		url('Gotham-Light.woff2') format('woff2'),
+		url('Gotham-Light.woff') format('woff'),
+		url('Gotham-Light.ttf') format('truetype'),
+		url('Gotham-Light.svg#Gotham-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Montserrat';
+	src: url('Montserrat-Light.eot');
+	src: url('Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+		url('Montserrat-Light.woff2') format('woff2'),
+		url('Montserrat-Light.woff') format('woff'),
+		url('Montserrat-Light.ttf') format('truetype'),
+		url('Montserrat-Light.svg#Montserrat-Light') format('svg');
+	font-weight: 300;
+	font-style: normal;
+}
+@font-face {
+    font-family:'Myriad Pro';
+    src: url('MyriadPro-Regular.eot');
+	src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+		url('MyriadPro-Regular.woff2') format('woff2'),
+		url('MyriadPro-Regular.woff') format('woff'),
+		url('MyriadPro-Regular.ttf') format('truetype'),
+		url('MyriadPro-Regular.svg#MyriadPro-Regular') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
